@@ -1,0 +1,8 @@
+﻿  MyString.c
+  test3.c
+D:\visual studio\visual studio file\test_1_1\test3.c(31,9): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“unsigned int”
+D:\visual studio\visual studio file\test_1_1\test3.c(31,9): message : 请考虑在格式字符串中使用“%d”
+D:\visual studio\visual studio file\test_1_1\test3.c(31,9): message : 请考虑在格式字符串中使用“%Id”
+D:\visual studio\visual studio file\test_1_1\test3.c(31,9): message : 请考虑在格式字符串中使用“%I32d”
+  正在生成代码...
+  test_1_1.vcxproj -> D:\visual studio\visual studio file\test_1_1\Debug\test_1_1.exe
